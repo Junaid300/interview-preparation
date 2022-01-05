@@ -29,3 +29,14 @@
 2. Non-Primitive : Primitive  are those which are user defined and can store differnt type of data types. (classes)
 
 
+### Polymorphism
+##### Polymorphism mean many form. An object or methods or varible can have many form. Polymorpsim is based on methods.
+
+### Over Loading
+##### When two or more methods same method name and type but have different  of parameters - Static or compile Time
+### Over Writing
+### Over Riding
+##### When two or more methods have same name and paramenters but one in parent class and other in child class. - DyNamic or Run Time
+### Virtual Function
+##### Virtual Function is member fuction that you can expected that function will redefine in derive class of base class.
+### Pure Virtual Function
