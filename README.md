@@ -23,3 +23,9 @@
 
 ### What is object?
 ##### Object is the instace of class. Instance means physical existance.
+
+### Primitive vs Non-Primitive  data types
+1. Primitive : Primitive data types are those which store kind of data types.(int, boolean , string , array)
+2. Non-Primitive : Primitive  are those which are user defined and can store differnt type of data types. (classes)
+
+
